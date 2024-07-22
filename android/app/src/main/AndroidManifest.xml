@@ -1,4 +1,4 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.amhyou.qrgenerator">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
         android:label="qr_generator"
         android:name="${applicationName}"
